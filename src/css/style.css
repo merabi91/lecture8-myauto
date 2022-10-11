@@ -159,3 +159,11 @@ hr{
 .car-filter{
     padding-left: 20px;
 }
+.card{
+    background-color: white;
+    padding: 13px;
+    border-radius: 14px;
+}
+.img{
+    border-radius: 10px;
+}
