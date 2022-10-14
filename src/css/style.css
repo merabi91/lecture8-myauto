@@ -167,3 +167,43 @@ hr{
 .img{
     border-radius: 10px;
 }
+.car_name{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #272A37;
+}
+.description_container{
+    padding: 16px;
+}
+.car_year{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #8C929B;
+}
+.car_ganbajeba{
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    color: #FF3B30;
+}
+.flag_container{
+    width: 16px;
+    height: 16px;
+}
+.lari{
+    background: #F2F3F6;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 15px;
+}
+.justify-cotnent-end{
+    justify-content: end;
+}
+.icon_container{
+    width: 16px;
+}
+.discription{
+    font-size: 12px;
+}
